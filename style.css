@@ -39,7 +39,8 @@ body *{
 
 #container{
     height: 712px;
-    width: 360px;
+    width: 100%;
+    max-width: 580px;
     border: 1px solid magenta;
     margin-right: auto;
     margin-left: auto;
